@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thekalyan001/KalyanMishra/static/css/main.eecd21d5.css",
+    "main.js": "/thekalyan001/KalyanMishra/static/js/main.a4a3158f.js",
+    "static/media/me-about.png": "/thekalyan001/KalyanMishra/static/media/me-about.bb79c08eb0ebb4c82565.png",
+    "static/media/bg-texture.jpg": "/thekalyan001/KalyanMishra/static/media/bg-texture.456b2b9c00151398a436.jpg",
+    "static/media/me.png": "/thekalyan001/KalyanMishra/static/media/me.3ea4790ef16a1956e570.png",
+    "static/media/portfolio5.png": "/thekalyan001/KalyanMishra/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/thekalyan001/KalyanMishra/static/media/cv.707ba6077a892629e354.pdf",
+    "static/media/portfolio2.jpg": "/thekalyan001/KalyanMishra/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/thekalyan001/KalyanMishra/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/thekalyan001/KalyanMishra/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/thekalyan001/KalyanMishra/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/thekalyan001/KalyanMishra/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/thekalyan001/KalyanMishra/index.html",
+    "main.eecd21d5.css.map": "/thekalyan001/KalyanMishra/static/css/main.eecd21d5.css.map",
+    "main.a4a3158f.js.map": "/thekalyan001/KalyanMishra/static/js/main.a4a3158f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecd21d5.css",
+    "static/js/main.a4a3158f.js"
+  ]
+}
